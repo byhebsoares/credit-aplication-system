@@ -6,7 +6,7 @@ import kotlin.collections.*
 
 @Entity
 @Table(name = "Cliente")
-data class Custumer(
+data class Customer(
     @Column(nullable = false) var firstName: String = "",
     @Column(nullable = false) var lastName: String = "",
     @Column(nullable = false, unique = true ) val cpf: String,
@@ -15,7 +15,7 @@ data class Custumer(
     @Column(nullable = false) @Embedded var address: Address = Address(),
     @Column(nullable = false) @OneToMany (fetch = FetchType.LAZY,
     cascade = arrayOf(CascadeType.REMOVE, CascadeType.PERSIST),
-    mappedBy = "custumer")
+    mappedBy = "customer")
     var credits: MutableList<Credit> = mutableListOf(),
     @Id @GeneratedValue( strategy = GenerationType.IDENTITY) val id: Long? = null
 )
