@@ -10,7 +10,7 @@ import java.util.*
 
 class CreditService(
     private val creditRepository: CreditRepository,
-    private val customerService: CostomerService
+    private val customerService: CustomerService
 ): ICreditService {
     override fun save(credit: Credit): Credit {
         credit.apply {
