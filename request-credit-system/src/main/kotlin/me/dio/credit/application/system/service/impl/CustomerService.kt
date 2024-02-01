@@ -6,7 +6,7 @@ import me.dio.credit.application.system.service.ICustomerService
 import org.springframework.stereotype.Service
 
 @Service
-class CostomerService(
+class CustomerService(
     private val customerRepository: CustomerRepository
 ) : ICustomerService {
     override fun save(customer: Customer): Customer =
