@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="h2">
-    <option name="defaultUnitInitialized" value="true" />
-=======
   <component name="JpaBuddyIdeaProjectConfig">
->>>>>>> 03/criando_classes_camada_controller
+    <option name="defaultUnitInitialized" value="true" />
     <option name="renamerInitialized" value="true" />
   </component>
 </project>
