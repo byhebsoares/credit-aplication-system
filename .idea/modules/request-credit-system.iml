@@ -6,6 +6,21 @@
       <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/build" />
     </content>
+    <content url="file://$MODULE_DIR$/../../request-credit-system">
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../request-credit-system">
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../request-credit-system" />
+    <content url="file://$MODULE_DIR$/../../request-credit-system">
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../request-credit-system/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../request-credit-system" />
+    <content url="file://$MODULE_DIR$/../../request-credit-system" />
     <content url="file://$MODULE_DIR$/../../request-credit-system" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
