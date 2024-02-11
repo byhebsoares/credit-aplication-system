@@ -60,6 +60,9 @@
     <content url="file://$MODULE_DIR$/../../request-credit-system/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../request-credit-system/src/test/kotlin" isTestSource="true" />
     </content>
+    <content url="file://$MODULE_DIR$/../../request-credit-system/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../request-credit-system/src/test/kotlin" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="request-credit-system.main" />
